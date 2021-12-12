@@ -31,7 +31,7 @@ p {
     text-transform: uppercase;
     transform: translate(-40%, -50%);
     background: linear-gradient( 180deg, #dd07a5, #2a75ff);
-    z-index: 1;
+    z-index: 0.2;
     padding: 10px;
     border-radius: 15px;
     font-family: monospace;
